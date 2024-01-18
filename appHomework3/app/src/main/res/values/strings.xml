@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appHomework3</string>
+    <string name="cocktail">CockTail</string>
+    <string name="softDrink">Soft Drink</string>
+    <string name="energyDrink">Energy Drink</string>
+    <string name="menubar">All Drink Item</string>
+</resources>

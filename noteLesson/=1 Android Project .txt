@@ -1,0 +1,13 @@
+=>1 Android Project 
+  ->have 2 or more android app
+    ->have 2 or more Activity (Activity = Screen View to Show) 
+      -> have 2 or more View ( Ex: Text View , Image View)
+        -> have 2 or more Layout (2Type of Layout : Vertical Layout and Horizontal Layout  	
+Activity is a number of screen view
+View is the Object
+Layout is group of view
+all Text stored in string.xml
+xml stored UI design 
+Gradle using for stored appplication
+Bundle using stored value in android and get value
+Intent use to open new Activity or open new screen

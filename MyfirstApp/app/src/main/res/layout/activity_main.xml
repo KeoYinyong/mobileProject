@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF0F5"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00008B"
+        android:padding="10dp"
+        android:text="MyApp"
+        android:textColor="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cambodia"
+        android:paddingTop="10dp"
+        android:textAlignment="center"
+        android:textColor="@color/_0000ff"
+        android:textSize="50dp"
+        android:background="@drawable/border"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="455dp"
+        app:srcCompat="@drawable/cambodia"
+        android:layout_marginTop="3mm"
+        android:layout_marginBottom="3mm"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PhnomPenh"
+        android:textAlignment="center"
+        android:textColor="#8b0000"
+        android:textSize="50dp"
+        android:background="@drawable/border"
+        android:paddingBottom="2mm"/>
+
+
+</LinearLayout>

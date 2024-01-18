@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".softDrink">
+
+    <TextView
+        android:id="@+id/softTextview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15pt"
+        android:layout_marginBottom="15pt"
+        android:text="Sweet Drink"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:textSize="15pt" />
+    <ImageView
+        android:id="@+id/softImgview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/softdrink"/>
+
+</LinearLayout>

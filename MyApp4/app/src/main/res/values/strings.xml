@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp4</string>
+    <string name="btnTextview">Get Detail</string>
+    <string name="txtFName">First Name</string>
+    <string name="txtLName">Last Name</string>
+    <string name="txtState">State</string>
+    <string name="btnBack">Back</string>
+</resources>
